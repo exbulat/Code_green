@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\GitHub\\Code_green\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1876C480-3A43-581B-7D59-D70698F0E2F7}|Assembly-CSharp.csproj|c:\\users\\admin\\documents\\github\\code_green\\assets\\scripts\\sceness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1876C480-3A43-581B-7D59-D70698F0E2F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sceness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sceness.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\Code_green\\Assets\\Scripts\\sceness.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\sceness.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\Code_green\\Assets\\Scripts\\sceness.cs",
+              "RelativeToolTip": "Assets\\Scripts\\sceness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T19:21:12.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
